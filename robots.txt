@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zesowavu.github.io/sitemap/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/NlQ/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/gBU/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/YTN/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/nVM/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/mXW/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/YQF/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/XjI/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/fCg/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/raK/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/qIa/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/Lbx/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/TGK/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/rke/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/mPB/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/mTo/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/Zog/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/XLZ/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/JlE/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/rdt/sitemap_index.zesowavu
+Sitemap: https://zesowavu.github.io/UiH/sitemap_index.zesowavu
